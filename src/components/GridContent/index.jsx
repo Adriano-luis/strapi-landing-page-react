@@ -8,7 +8,7 @@ export const GridContent = ({ title, html, background = false }) => {
   return (
     <SectionBackground background={background}>
       <Style.Container>
-        <Heading uppercase colorDark={!background}>
+        <Heading uppercase colorDark={!background} as="h2">
           {title}
         </Heading>
         <Style.Html>

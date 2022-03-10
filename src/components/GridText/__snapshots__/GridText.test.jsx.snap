@@ -86,11 +86,11 @@ exports[`<GridText /> should render GridText with background 1`] = `
         >
           My grid
         </h2>
-        <p
+        <div
           class="c5 c6"
         >
           Uma breve descrição colocada aqui para teste e ver como que fica
-        </p>
+        </div>
         <div
           class="c7"
         >
@@ -102,7 +102,7 @@ exports[`<GridText /> should render GridText with background 1`] = `
             >
               Teste 1
             </h3>
-            <p
+            <div
               class="c5 c6"
             >
               Lorem ipsum dolor sit amet, 
@@ -111,7 +111,7 @@ exports[`<GridText /> should render GridText with background 1`] = `
       posuere dictum. Vestibulum ornare nisi at congue laoreet. 
       Pellentesque sit amet velit sapien. Lorem ipsum dolor sit amet, 
       consectetur adipiscing elit.
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -121,7 +121,7 @@ exports[`<GridText /> should render GridText with background 1`] = `
             >
               Teste 2
             </h3>
-            <p
+            <div
               class="c5 c6"
             >
               Lorem ipsum dolor sit amet, 
@@ -130,7 +130,7 @@ exports[`<GridText /> should render GridText with background 1`] = `
       posuere dictum. Vestibulum ornare nisi at congue laoreet. 
       Pellentesque sit amet velit sapien. Lorem ipsum dolor sit amet, 
       consectetur adipiscing elit.
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -140,7 +140,7 @@ exports[`<GridText /> should render GridText with background 1`] = `
             >
               Teste 3
             </h3>
-            <p
+            <div
               class="c5 c6"
             >
               Lorem ipsum dolor sit amet, 
@@ -149,7 +149,7 @@ exports[`<GridText /> should render GridText with background 1`] = `
       posuere dictum. Vestibulum ornare nisi at congue laoreet. 
       Pellentesque sit amet velit sapien. Lorem ipsum dolor sit amet, 
       consectetur adipiscing elit.
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -244,11 +244,11 @@ exports[`<GridText /> should render GridText without background 1`] = `
         >
           My grid
         </h2>
-        <p
+        <div
           class="c5 c6"
         >
           Uma breve descrição colocada aqui para teste e ver como que fica
-        </p>
+        </div>
         <div
           class="c7"
         >
@@ -260,7 +260,7 @@ exports[`<GridText /> should render GridText without background 1`] = `
             >
               Teste 1
             </h3>
-            <p
+            <div
               class="c5 c6"
             >
               Lorem ipsum dolor sit amet, 
@@ -269,7 +269,7 @@ exports[`<GridText /> should render GridText without background 1`] = `
       posuere dictum. Vestibulum ornare nisi at congue laoreet. 
       Pellentesque sit amet velit sapien. Lorem ipsum dolor sit amet, 
       consectetur adipiscing elit.
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -279,7 +279,7 @@ exports[`<GridText /> should render GridText without background 1`] = `
             >
               Teste 2
             </h3>
-            <p
+            <div
               class="c5 c6"
             >
               Lorem ipsum dolor sit amet, 
@@ -288,7 +288,7 @@ exports[`<GridText /> should render GridText without background 1`] = `
       posuere dictum. Vestibulum ornare nisi at congue laoreet. 
       Pellentesque sit amet velit sapien. Lorem ipsum dolor sit amet, 
       consectetur adipiscing elit.
-            </p>
+            </div>
           </div>
           <div
             class="c8"
@@ -298,7 +298,7 @@ exports[`<GridText /> should render GridText without background 1`] = `
             >
               Teste 3
             </h3>
-            <p
+            <div
               class="c5 c6"
             >
               Lorem ipsum dolor sit amet, 
@@ -307,7 +307,7 @@ exports[`<GridText /> should render GridText without background 1`] = `
       posuere dictum. Vestibulum ornare nisi at congue laoreet. 
       Pellentesque sit amet velit sapien. Lorem ipsum dolor sit amet, 
       consectetur adipiscing elit.
-            </p>
+            </div>
           </div>
         </div>
       </div>
